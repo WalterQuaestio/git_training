@@ -1,9 +1,4 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
-<<<<<<< HEAD
-change1
-=======
 change 1
 change 2
 change 3
-
->>>>>>> change_alice
